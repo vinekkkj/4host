@@ -23,6 +23,9 @@ p {
 
   background-color: #232a31;
   padding: 0 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .logo {
@@ -170,6 +173,7 @@ p {
   line-height: 50px;
   background-color: #e8e9ea;
   color: #333;
+  border-radius: 5px;
 }
 
 .plan .price {
