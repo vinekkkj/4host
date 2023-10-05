@@ -37,7 +37,7 @@
     padding: 0 2rem;
   }
 
-  .services-container {
+  .services-container ul {
     flex-direction: column;
   }
 
