@@ -61,12 +61,12 @@
     width: 100%;
   }
 
-  .contract-container {
+  .contact-container {
     padding: 3rem 3rem;
   }
 
-  .contract-container,
-  .contract-container textarea {
+  .contact-container,
+  .contact-container textarea {
     width: 100%;
     margin: 10px 0;
   }
